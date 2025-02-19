@@ -1,7 +1,9 @@
-
+<div style="text-align: center;">
 <img src="back.jpg" alt="Flowers in Chania"> 
+</div>
 <h1 align="center">Hi 👋, I'm Nour</h1>
 <h3 align="center">Iam Software Engineering Developer</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
