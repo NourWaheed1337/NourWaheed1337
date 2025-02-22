@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="back.jpg" alt="Background Image">
+  <img src="back_2.jpg" alt="Background Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nour</h1>
