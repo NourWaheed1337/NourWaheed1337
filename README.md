@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## 🛠️ Skilles and Tools:
+## 🛠️ Skills and Tools:
 <p align="left">
   <a href="#" target="_blank">
     <img src="git-svgrepo-com.svg" alt="Git" width="40" height="40">
